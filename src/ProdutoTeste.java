@@ -10,6 +10,7 @@ public class ProdutoTeste {
         System.out.println("O valor do seu ID é " + produto.getId());
         System.out.println("O nome é do produto é " + produto.getNome());
         System.out.println("O preço é " + produto.getPreco() + " mil reais");
+        System.out.println();
 
     }
 
